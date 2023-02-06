@@ -1,3 +1,4 @@
+#BIZNES LOGIC
 import sqlite3
 
 class Tabela_produkty:
